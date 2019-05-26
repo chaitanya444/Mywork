@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TabbedActivity</string>
+    <string name="contacts">contacts</string>
+    <string name="messages">messages</string>
+    <string name="apps">apps</string>
+    <string name="games">games</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_messages">MessagesActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="these_are_contacts">These are contacts</string>
+    <string name="these_are_apps">These are Apps</string>
+    <string name="these_are_games">These are Games</string>
+</resources>
